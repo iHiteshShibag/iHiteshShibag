@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @iHiteshShibag
+- 👀 I’m interested in Data Science, AI/ML, and Web Development.
+- 🌱 I’m currently expanding my knowledge in Python, CSS/Javascript and Java.
+- 💞️ I’m looking to collaborate on AI/ML projects or any front-end related projects.
+- 📫 How to reach me: [LinkedIn] https://www.linkedin.com/in/hitesh-g-shibag-765755186
+- 💞️ I’m open to collaborations and contributions on projects.
