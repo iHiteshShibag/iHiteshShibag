@@ -15,12 +15,12 @@ I engineer secure, intelligent applications and optimize data pipelines. Focused
 
 ### ⚡ Featured Production Repositories
 
-#### 🛡️ [CyberGuard AI](https://github.com)
+#### 🛡️ [CyberGuard AI](https://https://github.com/iHiteshShibag/cyberguard-ai)
 *An intelligent, automated Security Operations Center (SOC) copilot designed to flag infrastructure anomalies.*
 - **Engineered With:** TypeScript, Node.js, Predictive AI/ML Core Engines
 - **Core Architecture:** Real-time log parsing and threat vector evaluation via custom scoring pipelines.
 
-#### 📊 [Employee Management System](https://github.com)
+#### 📊 [Employee Management System](https://github.com/iHiteshShibag/Employee_Management_System)
 *A high-performance enterprise dashboard managing corporate employee lifecycles.*
 - **Engineered With:** Java, JDBC, SQL, NetBeans IDE
 - **Core Architecture:** Optimized relational query execution, transactional safety, and robust schema constraints.
