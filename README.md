@@ -94,7 +94,7 @@ An AI-powered Security Operations Center (SOC) assistant designed to detect infr
 **Tech Stack:** TypeScript, Node.js, AI/ML
 
 🔗 Repository:
-https://github.com/iHiteshShibag/cyberguard-ai
+https://github.com/iHiteshShibag/CyberGuardAI
 
 ---
 
