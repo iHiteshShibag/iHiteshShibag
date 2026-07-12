@@ -189,10 +189,12 @@ https://github.com/iHiteshShibag/equity-backtesting-platform
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
+
 <a href="mailto:amitshibag72@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
+
 
 📧 Email: **amitshibag72@gmail.com**
 
