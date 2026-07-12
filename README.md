@@ -39,7 +39,7 @@
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=python,react,java,javascript,typescript" />
 </p>
 
 ### Backend Development
@@ -62,19 +62,22 @@
 
 ### AI / ML
 
-- Machine Learning
-- Predictive Analytics
-- Data Processing Pipelines
-- Model Optimization
-- Data Visualization
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 ### Cybersecurity
 
-- Threat Modeling
-- Security Analysis
-- Log Monitoring
-- Risk Assessment
-- Security Automation
+<p>
+  <img src="https://img.shields.io/badge/Threat%20Modeling-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOC%20Analysis-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Risk%20Assessment-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Log%20Monitoring-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security%20Automation-purple?style=for-the-badge" />
+</p>
 
 ---
 
