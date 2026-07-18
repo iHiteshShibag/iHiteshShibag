@@ -92,6 +92,8 @@ Financial analytics platform designed to evaluate and optimize investment strate
 🔗 Repository:
 https://github.com/iHiteshShibag/equity-backtesting-platform
 
+---
+
 ## 🛡️ CyberGuard AI
 
 An AI-powered Security Operations Center (SOC) assistant designed to detect infrastructure anomalies and automate security monitoring workflows.
