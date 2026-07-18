@@ -1,209 +1,226 @@
-<h1 align="center">Hi 👋, I'm Hitesh Shibag</h1>
-<h3 align="center">AI/ML Engineer • Full-Stack Developer • Cybersecurity Enthusiast</h3>
+<!-- ========================= -->
+<!--        HERO SECTION       -->
+<!-- ========================= -->
+
+<h1 align="center">
+Hi 👋 I'm <span style="color:#4F8EF7;">Hitesh Shibag</span>
+</h1>
+
+<h3 align="center">
+AI Engineer • Full Stack Developer • Cybersecurity Enthusiast
+</h3>
 
 <p align="center">
-  Building intelligent systems, secure applications, and scalable software solutions.
+Building AI systems, secure applications, and scalable software that solves real-world problems.
 </p>
 
 <p align="center">
-  <a href="https://github.com/iHiteshShibag">
-    <img src="https://komarev.com/ghpvc/?username=iHiteshShibag&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
+
+<a href="https://github.com/iHiteshShibag">
+<img src="https://komarev.com/ghpvc/?username=iHiteshShibag&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/iHiteshShibag?tab=followers">
+<img src="https://img.shields.io/github/followers/iHiteshShibag?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/iHiteshShibag">
+<img src="https://img.shields.io/github/stars/iHiteshShibag?affiliations=OWNER&style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-💡 Passionate about building AI-powered applications and secure software systems.
+```python
+class HiteshShibag():
 
-🔍 Focused on:
-- Artificial Intelligence & Machine Learning
-- Cybersecurity & Threat Detection
-- Full-Stack Application Development
-- Data Structures & Algorithms
-- System Design & Software Engineering
+    location = "Mumbai 🇮🇳"
 
-🎯 Currently exploring:
-- Generative AI
-- MLOps & AI Deployment
-- Cloud-Native Architectures
-- Advanced Threat Intelligence
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Cyber Security",
+        "Cloud Computing",
+        "Full Stack Development",
+        "System Design"
+    ]
 
-📍 Mumbai, India
+    currently_learning = [
+        "LLMs",
+        "MLOps",
+        "Kubernetes",
+        "AWS",
+        "Advanced Security Engineering"
+    ]
+
+    motto = "Build. Secure. Scale."
+```
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ Tech Stack
 
-### Programming Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,react,java,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" />
 </p>
 
-### Backend Development
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,flask,express" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
-### Databases
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring" />
 </p>
 
-### Tools & Platforms
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 ### AI / ML
 
 <p>
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python" />
 </p>
 
-### Cybersecurity
+### Cloud & DevOps
 
 <p>
-  <img src="https://img.shields.io/badge/Threat%20Modeling-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SOC%20Analysis-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Risk%20Assessment-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Log%20Monitoring-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security%20Automation-purple?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
 </p>
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
+
+## 🛡 CyberGuard AI
+
+> AI-powered SOC Assistant for intelligent threat detection.
+
+**Highlights**
+
+- AI Threat Detection
+- Log Analysis
+- Risk Scoring
+- Security Automation
+- Alert Prioritization
+
+**Stack**
+
+TypeScript • Node.js • AI
+
+🔗 https://github.com/iHiteshShibag/CyberGuardAI
+
+---
 
 ## 📈 Equity Backtesting Platform
 
-Financial analytics platform designed to evaluate and optimize investment strategies.
+Financial strategy analysis platform for evaluating investment performance.
 
-**Tech Stack:** Python, Finance APIs, Data Analysis
+**Stack**
 
-🔗 Repository:
-https://github.com/iHiteshShibag/equity-backtesting-platform
+Python • Pandas • Finance APIs
 
----
-
-## 🛡️ CyberGuard AI
-
-An AI-powered Security Operations Center (SOC) assistant designed to detect infrastructure anomalies and automate security monitoring workflows.
-
-### Key Features
-- Real-time threat analysis
-- Log aggregation and monitoring
-- Predictive anomaly detection
-- Security event prioritization
-- Risk scoring engine
-
-**Tech Stack:** TypeScript, Node.js, AI/ML
-
-🔗 Repository:
-https://github.com/iHiteshShibag/CyberGuardAI
+🔗 https://github.com/iHiteshShibag/equity-backtesting-platform
 
 ---
 
 ## 👨‍💼 Employee Management System
 
-Enterprise-grade employee lifecycle management platform.
+Enterprise employee management solution built using Java.
 
-### Key Features
-- Employee record management
-- Department administration
-- Database-driven architecture
-- Secure transaction handling
-- Optimized SQL operations
+**Stack**
 
-**Tech Stack:** Java, JDBC, SQL
+Java • JDBC • SQL
 
-🔗 Repository:
-https://github.com/iHiteshShibag/Employee_Management_System
-
----
-
-## 📚 Library Management System
-
-A comprehensive library administration platform featuring efficient book tracking and user management.
-
-**Tech Stack:** Python, SQLite, Flask
-
-🔗 Repository:
-https://github.com/iHiteshShibag/library-management-flask
-
----
-
-## 🎥 Vibecaps Landing Page
-
-Modern responsive landing page built with a focus on UI/UX and conversion optimization.
-
-**Tech Stack:** HTML, CSS, JavaScript
-
-🔗 Repository:
-https://github.com/iHiteshShibag/vibecaps-landing
+🔗 https://github.com/iHiteshShibag/Employee_Management_System
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iHiteshShibag&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iHiteshShibag&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iHiteshShibag&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=iHiteshShibag&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=iHiteshShibag&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iHiteshShibag&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-## 🤝 Connect With Me
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/iHiteshShibag/iHiteshShibag/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 🤖 Generative AI
+- 🧠 Large Language Models
+- ☁️ Cloud Native Systems
+- 🔐 AI Security
+- ⚡ High Performance Backend
+
+---
+
+# 🌎 Connect
 
 <p align="left">
-<a href="https://linkedin.com/in/hitesh-shibag">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
 
+<a href="https://linkedin.com/in/hitesh-shibag">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
 <a href="mailto:amitshibag72@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
 </p>
 
+---
 
-📧 Email: **amitshibag72@gmail.com**
+# 💡 Philosophy
+
+> Build products that people trust.
+>
+> Build systems that scale.
+>
+> Build AI that creates real impact.
 
 ---
 
-## 💭 Developer Philosophy
+<p align="center">
 
-> "Great software isn't just built to work. It's built to scale, defend, adapt, and create impact."
+⭐ Thanks for visiting my profile!
 
----
-
-⭐ If you find my projects interesting, consider giving them a star and following my journey.
+</p>
