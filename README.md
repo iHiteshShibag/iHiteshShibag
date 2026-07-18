@@ -83,6 +83,15 @@
 
 # 🌟 Featured Projects
 
+## 📈 Equity Backtesting Platform
+
+Financial analytics platform designed to evaluate and optimize investment strategies.
+
+**Tech Stack:** Python, Finance APIs, Data Analysis
+
+🔗 Repository:
+https://github.com/iHiteshShibag/equity-backtesting-platform
+
 ## 🛡️ CyberGuard AI
 
 An AI-powered Security Operations Center (SOC) assistant designed to detect infrastructure anomalies and automate security monitoring workflows.
@@ -138,17 +147,6 @@ Modern responsive landing page built with a focus on UI/UX and conversion optimi
 
 🔗 Repository:
 https://github.com/iHiteshShibag/vibecaps-landing
-
----
-
-## 📈 Equity Backtesting Platform
-
-Financial analytics platform designed to evaluate and optimize investment strategies.
-
-**Tech Stack:** Python, Finance APIs, Data Analysis
-
-🔗 Repository:
-https://github.com/iHiteshShibag/equity-backtesting-platform
 
 ---
 
